@@ -1,0 +1,6 @@
+numpy==2.0.2
+pandas==2.2.2
+torch==2.8.0+cu126
+scikit-learn==1.6.1
+tqdm==4.67.1
+pyarrow==22.0.0
