@@ -35,7 +35,7 @@ Le notebook principal s’exécute sur **GPU NVIDIA T4** avec un temps d’entra
 
 Notre approche repose sur une architecture **hybride, profonde et séquentielle**, inspirée des meilleurs modèles de recommandation industriels (YouTube DNN, architectures PPM/Next-Item, DCN, FiBiNet) :
 
-### Architecture ULTRA-ENHANCED PPM
+### Architecture ENHANCED PPM
 
 Le modèle combine plusieurs composantes avancées :
 
